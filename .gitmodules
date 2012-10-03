@@ -1,0 +1,9 @@
+[submodule "lib/lib.dbg"]
+	path = lib/lib.dbg
+	url = git://github.com/seagoj/lib.dbg.git
+[submodule "lib/lib.autoload"]
+	path = lib/lib.autoload
+	url = git://github.com/seagoj/lib.autoload.git
+[submodule "lib/lib.randData"]
+	path = lib/lib.randData
+	url = git://github.com/seagoj/lib.randData.git
